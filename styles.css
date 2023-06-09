@@ -29,7 +29,8 @@ div#backHome:hover{
 
 .container-fluid{
     background-color: #AFDBF5;
-    height: 100vh;
+    min-height: 100vh;
+    max-height: fit-content;
 }
 .circle{
     width: 5rem;
